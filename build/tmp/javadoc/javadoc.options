@@ -1,0 +1,6 @@
+-classpath '/Users/nuevothoughts-mac1/Library/Android/sdk/platforms/android-23/android.jar'
+-d '/Users/nuevothoughts-mac1/AndroidStudioProjects/DataLoaderExample/dataloader/build/docs/javadoc'
+-doctitle 'dataloader 0.0.1 API'
+-quiet 
+-windowtitle 'dataloader 0.0.1 API'
+'/Users/nuevothoughts-mac1/AndroidStudioProjects/DataLoaderExample/dataloader/src/main/java/com/github/shyam0507/dataloader/DataLoader.java'
