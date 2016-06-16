@@ -7,5 +7,5 @@ library to show loading progress bar along with custom message while fetching da
   In order to use the library,  Add the following to your build.gradle:
   
     dependencies {
-        compile 'com.github.shyam0507.dataloader:data-loader:0.0.1'
+        compile 'com.github.shyam0507:dataloader:0.0.1'
         }
